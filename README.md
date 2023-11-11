@@ -7,8 +7,8 @@ Passionate about the possibilities of Web3, privacy advocate, DeFi enthusiast, a
 - 🛡️ White Hat and Blue Team - Committed to improving cybersecurity in various domains, including the crypto space.
 - 💻 Specialized in Solidity - Crafting smart contracts and exploring the potential of blockchain technology.
 - 💡 Into Crypto since 2019 - Enthusiastic about the possibilities and innovations in the space.
-- 🔐 Advocate for online privacy - Helping individuals take control of their digital footprint.
 - 🌌 Exploring Quantum Science - Diving into the fascinating world of quantum computing.
+- 🔐 Advocate for online privacy - Helping individuals take control of their digital footprint.
 - 💰 Passionate about Finance - Macroeconomic enthusiast exploring financial markets.
 - 🪶 Leaning Front-end Development - Expanding my skills in web development.
 - 🎮 90s Gamer - JRPG and RPG, always up for a chat about classic games!
