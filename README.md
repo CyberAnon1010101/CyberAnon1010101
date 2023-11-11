@@ -35,6 +35,6 @@ Let's connect, collaborate, and learn from each other. Reach out to me via:
 
 - 💼 LinkedIn: [LinkedIn Profile] (You can add this once it's updated)
 - 💬 Discord ID : cyberanoninnovationweb3.0
-- 📧 Email: [blockchaindev@innovationWeb3.io](mailto:blockchaindev@innovationWeb3.io)
+- 📧 Email: [blockchaindev@innovationweb3.io](mailto:blockchaindev@innovationweb3.io)
 
 Looking forward to building a decentralized, secure, and financially informed future together!
