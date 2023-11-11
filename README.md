@@ -4,7 +4,7 @@ Passionate about the possibilities of Web3, privacy advocate, DeFi enthusiast, a
 
 ## About Me
 
-- 🛡️ White Hat and Blue Team member - Committed to improving cybersecurity in various domains, including the crypto space.
+- 🛡️ White Hat and Blue Team - Committed to improving cybersecurity in various domains, including the crypto space.
 - 💻 Specialized in Solidity - Crafting smart contracts and exploring the potential of blockchain technology.
 - 💡 Into Crypto since 2019 - Enthusiastic about the possibilities and innovations in the space.
 - 🔐 Advocate for online privacy - Helping individuals take control of their digital footprint.
