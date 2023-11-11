@@ -14,7 +14,7 @@ Passionate about the possibilities of Web3, privacy advocate, DeFi enthusiast, a
 - 🎮 90s Gamer - JRPG and RPG, always up for a chat about classic games!
 - 🎉 Fun Fact: I never had any interest in computers before 2019.
 
-## Mission
+## My Mission
 
 My commitment to privacy, cybersecurity, and finance is at the core of everything I do. As blockchain technology continues to integrate with our current system, it is very important to understand how this will work. My goal is to guide many people through this transition.
 
