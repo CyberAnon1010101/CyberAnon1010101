@@ -24,7 +24,6 @@ My commitment to privacy, cybersecurity, and finance is at the core of everythin
 - 🛠️ Offering guidance in Solidity and blockchain development.
 - 💰 Discussing macroeconomics and financial market insights.
 - 🚀 Assisting those unfamiliar with navigating Web3 securely.
-- 💰 Discussing macroeconomics and financial market insights.
 - 🌱 Guiding newcomers in Web3 with resources and insights.
 - 🔒 Sharing tips and tools for enhancing online privacy.
 - 🎮 Reminiscing about classic JRPGs and RPGs.
