@@ -22,6 +22,7 @@ My commitment to privacy, cybersecurity, and finance is at the core of everythin
 
 - 🔍 Exploring cryptography that quantum computers won't be able to break.
 - 🛠️ Offering guidance in Solidity and blockchain development.
+- 💰 Discussing macroeconomics and financial market insights.
 - 🚀 Assisting those unfamiliar with navigating Web3 securely.
 - 💰 Discussing macroeconomics and financial market insights.
 - 🌱 Guiding newcomers in Web3 with resources and insights.
